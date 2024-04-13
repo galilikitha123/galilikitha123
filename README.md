@@ -1,6 +1,6 @@
 # GALI_LIKITHA
 <h1 align="center">Hello👋, I'm GALI LIKITHA </h1>
-<h3 align="center">A passionate full stack developer and AI student from India.</h3>
+<h3 align="center">An Undergraduate and AI student ,passoniate about TECHNOLOGY.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=280104&label=Profile%20views&color=0e75b6&style=flat" alt="280104" /> </p>
 
