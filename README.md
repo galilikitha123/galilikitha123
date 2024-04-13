@@ -1,14 +1,14 @@
 # GALI_LIKITHA
-<h1 align="center">Hi 👋, I'm GALI LIKITHA </h1>
+<h1 align="center">Hello👋, I'm GALI LIKITHA </h1>
 <h3 align="center">A passionate full stack developer and AI student from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=280104&label=Profile%20views&color=0e75b6&style=flat" alt="280104" /> </p>
 
-- 🌱 I’m currently learning **PYTHON with DSA**
+- 🌱 Presently acquiring **PYTHON with DSA**
 
-- 💬 Ask me about **core java , python ,AI models, algorithms**
+- 💬❓ Inquire regarding **python ,Java , SQL**
 
-- 📫 How to reach me **likithareddy1231@gmail.com**
+- 📫 Contact information **likithareddy1231@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
