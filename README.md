@@ -8,7 +8,7 @@
 
 - 💬❓ Inquire regarding **python ,Java , SQL**
 
-- 📫 Contact information **likithareddy1231@gmail.com**
+- 📧 Contact information **likithareddy1231@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
