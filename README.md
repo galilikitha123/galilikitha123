@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=280104&label=Profile%20views&color=0e75b6&style=flat" alt="280104" /> </p>
 
-- 🌱 Presently acquiring **PYTHON with DSA**
+- 🌱 Presently acquiring **WEB DEVELOPMENT**
 
 - 💬❓ Inquire regarding **python ,Java , SQL**
 
