@@ -19,8 +19,9 @@
   <a href="https://instagram.com/_l_i_k_i_t_h_a.__" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_l_i_k_i_t_h_a.__" height="30" width="40" />
   </a>
-  <a href="linktr.ee/Gali_Likitha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linktree.svg" alt="Linktree" height="30" width="40" />
+  
+  <a href="https://linktr.ee/Gali_Likitha" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Linktree_logo.svg" alt="GALI LIKITHA" height="30" width="30" />
   </a>
 </p>
 
