@@ -8,7 +8,7 @@
 - 👩‍💻 SWE Intern at **WISEWORK** - Bangalore
 - 👩‍💻 Presently acquiring **WEB DEVELOPMENT**
 - ❓ Inquire regarding **Python, Java, SQL, MongoDB, C#**
-- 📧 Contact information **21ht1a4317@gmail.com**
+- 📧 Contact information **likithareddy1231@gmail.com**
 
 <h3 align="left">Also connect me on:</h3>
 
